@@ -40,7 +40,7 @@ export default function QrModal({ lote, onClose }: QrModalProps) {
     const base =
       typeof window !== "undefined"
         ? window.location.origin
-        : "https://proyecto-millaray.vercel.app";
+        : "https://semaforo-vencimientos-qr-khaki.vercel.app";
     const targetUrl = `${base}/?lote=${encodeURIComponent(lote.codigo_lote)}`;
     setUrlInspeccion(targetUrl);
 
