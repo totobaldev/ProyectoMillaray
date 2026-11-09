@@ -94,15 +94,15 @@ const MUESTRAS_IMPRIMIBLES = [
     desfase: "Desfase bimestral: +67 días (+2 meses) desde evaluación (Luz Verde)",
   },
   {
-    archivo: "09-VIGENTE-VERDE-LOT-2026-DIV-27-Penne-Divella.png",
+    archivo: "09-VIGENTE-VERDE-LOT-2026-DIV-27-Harina-Integral.png",
     lote: "LOT-2026-DIV-27",
-    titulo: "Muestra #09 — Penne Ziti Rigate N°27 Divella (VIGENTE)",
+    titulo: "Muestra #09 — Harina de Trigo Integral Biográ 500 g (VIGENTE)",
     desfase: "Desfase cuatrimestral: +126 días (+4 meses) desde evaluación (Luz Verde)",
   },
   {
-    archivo: "10-VIGENTE-VERDE-LOT-2026-DIV-08-Spaghetti-Divella.png",
+    archivo: "10-VIGENTE-VERDE-LOT-2026-DIV-08-Harina-Trigo.png",
     lote: "LOT-2026-DIV-08",
-    titulo: "Muestra #10 — Spaghetti Ristorante N°8 Divella (VIGENTE)",
+    titulo: "Muestra #10 — Harina de Trigo 100% Natural 1 kg (VIGENTE)",
     desfase: "Desfase semestral: +192 días (+6 meses) desde evaluación (Luz Verde)",
   },
 ];
